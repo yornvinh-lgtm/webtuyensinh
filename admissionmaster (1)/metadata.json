@@ -1,0 +1,5 @@
+{
+  "name": "AdmissionMaster",
+  "description": "Quản lý hồ sơ tuyển sinh thông minh, giúp học sinh theo dõi tiến độ, deadline và quản lý giấy tờ nhập học một cách khoa học với sự hỗ trợ của AI.",
+  "requestFramePermissions": []
+}
